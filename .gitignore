@@ -1,0 +1,103 @@
+# =========================
+# IntelliJ IDEA
+# =========================
+.idea/
+*.iml
+out/
+
+# =========================
+# Java / Gradle
+# =========================
+.gradle/
+build/
+target/
+bin/
+
+# =========================
+# Maven
+# =========================
+.mvn/wrapper/maven-wrapper.jar
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Node / React / Next.js
+# =========================
+node_modules/
+.next/
+dist/
+coverage/
+
+# =========================
+# Python / AI
+# =========================
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# =========================
+# Terraform
+# =========================
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+terraform.tfvars
+terraform.tfvars.json
+
+# =========================
+# Kubernetes Secrets
+# =========================
+*.secret.yaml
+secrets.yaml
+
+# =========================
+# Docker
+# =========================
+docker-data/
+postgres-data/
+redis-data/
+kafka-data/
+
+# =========================
+# Certificates and Keys
+# =========================
+*.pem
+*.key
+*.crt
+*.p12
+*.jks
+
+# =========================
+# Reports
+# =========================
+jacoco/
+allure-results/
+allure-report/
+
+# =========================
+# Misc
+# =========================
+tmp/
+temp/
+.cache/
