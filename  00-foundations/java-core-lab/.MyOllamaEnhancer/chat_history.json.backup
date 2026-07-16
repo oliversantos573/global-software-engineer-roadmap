@@ -1,0 +1,14 @@
+[
+  {
+    "sender": "You",
+    "message": "package com.oliversantos.learning.collections;  public class ArrayListPerformanceExample {     public static  void }"
+  },
+  {
+    "sender": "AI",
+    "message": ""
+  },
+  {
+    "sender": "System",
+    "message": "Error: model 'llama3:8b-instruct-q6_K' not found"
+  }
+]
